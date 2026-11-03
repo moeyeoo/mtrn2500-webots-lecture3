@@ -5,7 +5,7 @@ sceneTreePerspectives: 000000ff00000001000000030000001e000000c0000000fa010000000
 maximizedDockId: -1
 centralWidgetVisible: 1
 orthographicViewHeight: 1
-textFiles: 2 "controllers/mySecondInheritanceController/EPuckRobot.cpp" "controllers/mySecondInheritanceController/EPuckRobot.hpp" "controllers/mySecondInheritanceController/mySecondInheritanceController.cpp"
+textFiles: 1 "../MySecondSimulation/controllers/mySecondInheritanceController/EPuckRobot.cpp" "../MySecondSimulation/controllers/mySecondInheritanceController/EPuckRobot.hpp" "../MySecondSimulation/controllers/mySecondInheritanceController/mySecondInheritanceController.cpp"
 globalOptionalRendering: DistanceSensorRays
 consoles: Console:All:All
 renderingDevicePerspectives: e-puck:camera;1;1;0;0

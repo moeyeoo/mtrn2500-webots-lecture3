@@ -37,13 +37,23 @@ WoodenBox {
   size 0.1 0.1 0.1
 }
 E-puck {
+  hidden position_0_0 3.095607672882037e-08
+  hidden position_0_1 3.095609796178182e-08
+  hidden rotation_1 0 1 0 2.9802322387695313e-08
+  hidden rotation_2 0 1 0 2.9802322387695313e-08
+  translation 9.67734175668451e-11 1.781557849649729e-11 -6.391454876158997e-05
+  rotation 0.9998611877061724 -0.016661492077173844 7.512052480837311e-07 1.1908990893488151e-07
   name "EPuckGreen"
-  controller "EPuckGreenControllerSln"
+  controller "EPuckGreenController"
   receiver_channel 2
 }
 E-puck {
-  translation 0.16 0 0
-  rotation 0 0 1 1.5708
+  hidden position_0_0 -2.682854798292184e-08
+  hidden position_0_1 2.682859801169623e-08
+  hidden rotation_1 0 -1 0 2.9802322387695313e-08
+  hidden rotation_2 0 1 0 2.9802322387695313e-08
+  translation 0.15999999998632244 1.7557914000361466e-15 -5.591541618193974e-05
+  rotation 5.2240143904336505e-08 5.2240164161022164e-08 0.9999999999999971 1.5708000031303155
   name "EPuckBlack"
   controller "EPuckBlackControllerSln"
   version "2"
